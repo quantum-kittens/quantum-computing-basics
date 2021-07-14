@@ -4,7 +4,7 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
 ## Contents
 
 ### Fun Stuff!
-- [The Quantum Chai Maker](The_Quantum_Chai_Maker.ipynb) - explore interesting flavor combinations for your tea!
+- [The Quantum Chai Maker](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/The_Quantum_Chai_Maker.ipynb) - explore interesting flavor combinations for your tea!
 
 ### Algorithms
 - [A basic demo of the BB84 quantum key distribution protocol](BB84_QKD.ipynb)
