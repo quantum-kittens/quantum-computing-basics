@@ -1,4 +1,4 @@
-<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/10/dnd_cover-scaled.jpg" width="80%"  />
+<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/02/qc.jpg" width="80%"  />
 
 # Quantum-Computing-Basics
 A collection of Jupyter notebooks that demonstrate and make use of gate-model quantum computing. (Framework: Qiskit.)
