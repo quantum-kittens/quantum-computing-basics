@@ -1,4 +1,4 @@
-<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/02/qc.jpg" width="80%"  />
+<img src="https://www.radhapyarisandhir.com/wp-content/uploads/2020/02/qc.jpg" width="100%"  />
 
 # Quantum-Computing-Basics
 A collection of Jupyter notebooks that demonstrate and make use of gate-model quantum computing. (Framework: Qiskit.)
@@ -17,6 +17,6 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
 - [Playing with Quantum States in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_States_in_Qiskit.ipynb)
 
 
-If you aren't a programmer and/or want to view/run the Jupyter Notebooks in your browse, use: [nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
+If you aren't a programmer and/or want to view/run the Jupyter Notebooks in your browser, use: [nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
 
 Here are some instructions if you aren't familiar with nbviewer: [How to Run a Jupyter Notebook in Your Browser (for Non Programmers)](Howto_RunJupyterNotebook_for_NonProgrammers.pdf)
