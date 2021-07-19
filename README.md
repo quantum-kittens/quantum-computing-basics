@@ -15,7 +15,7 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
 
 ### Qiskit Reference Guides
 - [Playing with Quantum States in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_States_in_Qiskit.ipynb)
-- [Playing with Quantum Circuits in Qiskit]https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_Circuits_in_Qiskit.ipynb)
+- [Playing with Quantum Circuits in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_Circuits_in_Qiskit.ipynb)
 
 
 If you aren't a programmer and/or want to view/run the Jupyter Notebooks in your browser, use: [nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
