@@ -15,6 +15,9 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
    - [Medium article: Quantum Key Distribution for Everyone](https://levelup.gitconnected.com/quantum-key-distribution-for-everyone-f08dd5646f33)
    - [[nbviewer link]](https://nbviewer.org/github/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb)
 
+### Qiskit 101
+- [Introductory_Demo](https://github.com/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_101/Introductory_Demo.ipynb)
+
 ### Qiskit Reference Guides
 - [Playing with Quantum States in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_States_in_Qiskit.ipynb)
 - [Playing with Quantum Circuits in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_Circuits_in_Qiskit.ipynb)
