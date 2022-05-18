@@ -10,7 +10,7 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
    - [Medium article: How I Use Quantum Computing to Make Tea](https://radhapyari.medium.com/how-i-use-quantum-computing-to-make-tea-33ccc192caf6)
 
 ### Algorithms
-- [A basic demo of the BB84 quantum key distribution protocol](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/BB84_QKD.ipynb)
+- [A basic demo of the BB84 quantum key distribution protocol](https://github.com/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb) [(nbviewer link)](https://nbviewer.org/github/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb)
    - [Medium article: Quantum Key Distribution for Everyone](https://levelup.gitconnected.com/quantum-key-distribution-for-everyone-f08dd5646f33)
 
 ### Qiskit Reference Guides
