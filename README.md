@@ -6,12 +6,14 @@ A collection of Jupyter notebooks that demonstrate and make use of gate-model qu
 ## Contents
 
 ### Fun Stuff!
-- [The Quantum Chai Maker](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/The_Quantum_Chai_Maker.ipynb) - explore interesting flavor combinations for your tea!
+- [The Quantum Chai Maker](https://github.com/quantum-kittens/quantum-computing-basics/blob/master/Fun_Stuff/The_Quantum_Chai_Maker.ipynb) - explore interesting flavor combinations for your tea!
    - [Medium article: How I Use Quantum Computing to Make Tea](https://radhapyari.medium.com/how-i-use-quantum-computing-to-make-tea-33ccc192caf6)
+   - [[nbviewer link]](https://nbviewer.org/github/quantum-kittens/quantum-computing-basics/blob/master/Fun_Stuff/The_Quantum_Chai_Maker.ipynb)
 
 ### Algorithms
-- [A basic demo of the BB84 quantum key distribution protocol](https://github.com/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb) [(nbviewer link)](https://nbviewer.org/github/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb)
+- [A basic demo of the BB84 quantum key distribution protocol](https://github.com/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb) 
    - [Medium article: Quantum Key Distribution for Everyone](https://levelup.gitconnected.com/quantum-key-distribution-for-everyone-f08dd5646f33)
+   - [[nbviewer link]](https://nbviewer.org/github/quantum-kittens/quantum-computing-basics/blob/master/Algorithms/BB84_QKD.ipynb)
 
 ### Qiskit Reference Guides
 - [Playing with Quantum States in Qiskit](https://nbviewer.jupyter.org/github/quantum-kittens/quantum-computing-basics/blob/master/Qiskit_Reference_Guides/Playing_with_Quantum_States_in_Qiskit.ipynb)
